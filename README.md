@@ -12,4 +12,4 @@
 
 
  ## 앱 실행 영상 
-<img src="https://user-images.githubusercontent.com/75601594/145603733-8dca24ec-d56a-428d-8991-7baef7026b37.gif" width="200" height="300%">![Hnet-image]
+<img src="https://user-images.githubusercontent.com/75601594/145603733-8dca24ec-d56a-428d-8991-7baef7026b37.gif" width="200" height="300%">
